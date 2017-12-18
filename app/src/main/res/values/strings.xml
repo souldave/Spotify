@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpotifyKotlin</string>
+    <string name="top_hits_philippines">Top Hits Philippines</string>
+    <string name="shuffle_play">Shuffle Play</string>
+</resources>
